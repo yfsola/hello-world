@@ -1,2 +1,6 @@
 # hello-world
-just make a test
+
+Hi Humans!
+
+Hubot here, I like js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Each tacos.
